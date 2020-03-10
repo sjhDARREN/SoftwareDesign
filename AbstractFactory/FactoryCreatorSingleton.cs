@@ -32,6 +32,9 @@ namespace AbstractFactory
                 case "lenovo":
                     return new LenovoLaptopFactory();
 
+                case "apple":
+                    return new AppleLaptopFactory();
+
                 default:
                     return null;
             }

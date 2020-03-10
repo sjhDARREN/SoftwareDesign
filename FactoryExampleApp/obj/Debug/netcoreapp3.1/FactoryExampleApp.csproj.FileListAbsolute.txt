@@ -1,0 +1,11 @@
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\bin\Debug\netcoreapp3.1\FactoryExampleApp.exe
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\bin\Debug\netcoreapp3.1\FactoryExampleApp.deps.json
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\bin\Debug\netcoreapp3.1\FactoryExampleApp.runtimeconfig.json
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\bin\Debug\netcoreapp3.1\FactoryExampleApp.runtimeconfig.dev.json
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\bin\Debug\netcoreapp3.1\FactoryExampleApp.dll
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\bin\Debug\netcoreapp3.1\FactoryExampleApp.pdb
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\obj\Debug\netcoreapp3.1\FactoryExampleApp.csprojAssemblyReference.cache
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\obj\Debug\netcoreapp3.1\FactoryExampleApp.AssemblyInfoInputs.cache
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\obj\Debug\netcoreapp3.1\FactoryExampleApp.AssemblyInfo.cs
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\obj\Debug\netcoreapp3.1\FactoryExampleApp.dll
+C:\Users\sjhDA\Desktop\SoftwareDesign\FactoryExampleApp\obj\Debug\netcoreapp3.1\FactoryExampleApp.pdb

@@ -6,7 +6,7 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a make - lenovo or dell");
+            Console.WriteLine("Enter a make - lenovo or dell or apple");
             String make = Console.ReadLine();
 
             Console.WriteLine("Enter a budget");

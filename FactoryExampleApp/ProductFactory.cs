@@ -14,9 +14,13 @@ namespace FactoryExampleApp
             {
                 return new SimpleProduct();
             }
-            else
+            else if (budget >= 100 && budget < 200)
             {
                 return new ComplexProduct();
+            }
+            else
+            {
+                return new MoreComplexProduct();
             }
         }
     }
