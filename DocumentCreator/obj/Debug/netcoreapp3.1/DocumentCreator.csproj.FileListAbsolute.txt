@@ -1,0 +1,11 @@
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.csprojAssemblyReference.cache
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.AssemblyInfoInputs.cache
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.AssemblyInfo.cs
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.exe
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.deps.json
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.runtimeconfig.json
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.runtimeconfig.dev.json
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.dll
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\bin\Debug\netcoreapp3.1\DocumentCreator.pdb
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.dll
+C:\Users\sjhDA\Desktop\SoftwareDesign\DocumentCreator\obj\Debug\netcoreapp3.1\DocumentCreator.pdb
