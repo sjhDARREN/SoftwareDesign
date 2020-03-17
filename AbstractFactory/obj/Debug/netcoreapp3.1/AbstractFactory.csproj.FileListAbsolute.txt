@@ -9,3 +9,14 @@ C:\Users\sjhDA\Desktop\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\Ab
 C:\Users\sjhDA\Desktop\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
 C:\Users\sjhDA\Desktop\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
 C:\Users\sjhDA\Desktop\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb

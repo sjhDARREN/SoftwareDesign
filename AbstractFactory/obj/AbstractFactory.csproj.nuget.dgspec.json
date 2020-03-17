@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sjhDA\\Desktop\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj": {}
+    "C:\\Users\\sjhDA\\Desktop\\2106 swDesign\\1802238_Lab_Week9\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sjhDA\\Desktop\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj": {
+    "C:\\Users\\sjhDA\\Desktop\\2106 swDesign\\1802238_Lab_Week9\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sjhDA\\Desktop\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "C:\\Users\\sjhDA\\Desktop\\2106 swDesign\\1802238_Lab_Week9\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "C:\\Users\\sjhDA\\Desktop\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj",
+        "projectPath": "C:\\Users\\sjhDA\\Desktop\\2106 swDesign\\1802238_Lab_Week9\\SoftwareDesign\\AbstractFactory\\AbstractFactory.csproj",
         "packagesPath": "C:\\Users\\sjhDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sjhDA\\Desktop\\SoftwareDesign\\AbstractFactory\\obj\\",
+        "outputPath": "C:\\Users\\sjhDA\\Desktop\\2106 swDesign\\1802238_Lab_Week9\\SoftwareDesign\\AbstractFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
