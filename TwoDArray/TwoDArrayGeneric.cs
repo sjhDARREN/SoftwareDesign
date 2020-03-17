@@ -39,6 +39,14 @@ namespace TwoDArray
         {
             return new TwoDRowMajorIteratorGeneric<T>(this);
         }
+        public ITwoDIterator<T> CreateFirstIterator()
+        {
+            return new TwoDFirstIterator<T>(this);
+        }
+        public ITwoDIterator<T> CreateSecondIterator()
+        {
+            return new TwoDSecondIterator<T>(this);
+        }
 
         // get the number of columns in the array
         public int Columns()

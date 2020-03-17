@@ -18,11 +18,11 @@ namespace Timer
             BeepAlarm alarm2 = new BeepAlarm();
 
             // attach the alarms to the clock
-            //timer.Attach(alarm1);
-            //timer.Attach(alarm2);
+            timer.Attach(alarm1);
+            timer.Attach(alarm2);
 
             // run the clock for thirty seconds
-            timer.Run(3);
+            timer.Run(30);
         }
     }
 }

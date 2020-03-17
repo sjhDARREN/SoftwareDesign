@@ -1,0 +1,10 @@
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\bin\Debug\netcoreapp2.0\Notifier.deps.json
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\bin\Debug\netcoreapp2.0\Notifier.runtimeconfig.json
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\bin\Debug\netcoreapp2.0\Notifier.runtimeconfig.dev.json
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\bin\Debug\netcoreapp2.0\Notifier.dll
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\bin\Debug\netcoreapp2.0\Notifier.pdb
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\obj\Debug\netcoreapp2.0\Notifier.csprojAssemblyReference.cache
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\obj\Debug\netcoreapp2.0\Notifier.AssemblyInfoInputs.cache
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\obj\Debug\netcoreapp2.0\Notifier.AssemblyInfo.cs
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\obj\Debug\netcoreapp2.0\Notifier.dll
+C:\Users\sjhDA\Desktop\2106 swDesign\1802238_Lab_Week9\SoftwareDesign\Notifier\obj\Debug\netcoreapp2.0\Notifier.pdb

@@ -1,4 +1,4 @@
-﻿//
+//
 // ICT2106 Software Design - 2D array example
 //
 // Concrete row-major iterator for two-dimensional arrays.
@@ -7,7 +7,7 @@
 //
 namespace TwoDArray
 {
-    class TwoDRowMajorIteratorGeneric<T> : ITwoDIterator<T>
+    class TwoDSecondIterator<T> : ITwoDIterator<T>
     {
         // the collection being iterated through
         TwoDArrayGeneric<T> collection;
@@ -16,7 +16,7 @@ namespace TwoDArray
         private int i, j;
 
         // constructor
-        public TwoDRowMajorIteratorGeneric(TwoDArrayGeneric<T> collectionIn)
+        public TwoDSecondIterator(TwoDArrayGeneric<T> collectionIn)
         {
             collection = collectionIn;
             i = 0;
@@ -26,6 +26,9 @@ namespace TwoDArray
         // get the current element of the iteration
         public T Current()
         {
+            if(collection.Get(i,j)==null){
+                Next();
+            }
             return collection.Get(i, j);
         }
 
@@ -33,6 +36,10 @@ namespace TwoDArray
         public void Next()
         {
             j++;
+            if(j < collection.Columns() && collection.Get(i,j)==null){
+                Next();
+            }
+
             if (j >= collection.Columns())
             {
                 j = 0;
